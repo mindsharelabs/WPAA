@@ -1,0 +1,530 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress-amazon-associate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-19 19:02-0500\n"
+"PO-Revision-Date: 2010-11-19 19:04-0500\n"
+"Last-Translator: Matthew Denton <matt@mdbitz.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;_n;__\n"
+"X-Poedit-Basepath: c:/users/mdbitz/svn/WordPress/WordPress Amazon Associate/\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: AmazonWidget/.\n"
+"X-Poedit-SearchPath-2: Widget/Amazon/.\n"
+"X-Poedit-SearchPath-3: WPAA/Module/.\n"
+
+#: WPAA.php:541
+msgid "Plugin is not configured! Please correct in the"
+msgstr ""
+
+#: WPAA.php:541
+msgid "settings page"
+msgstr ""
+
+#: WPAA.php:651
+msgid "Settings"
+msgstr ""
+
+#: WPAA.php:661
+msgid "Primary"
+msgstr ""
+
+#: WPAA.php:661
+msgid "Amazon Locale"
+msgstr ""
+
+#: WPAA.php:661
+msgid "Associate Tag"
+msgstr ""
+
+#: WPAA.php:661
+msgid "Active"
+msgstr ""
+
+#: WPAA.php:662
+msgid "United States"
+msgstr ""
+
+#: WPAA.php:663
+msgid "Canada"
+msgstr ""
+
+#: WPAA.php:664
+msgid "Germany"
+msgstr ""
+
+#: WPAA.php:665
+msgid "France"
+msgstr ""
+
+#: WPAA.php:666
+msgid "Japan"
+msgstr ""
+
+#: WPAA.php:667
+msgid "United Kingdom"
+msgstr ""
+
+#: WPAA.php:670
+msgid "Enable Geo Localization?"
+msgstr ""
+
+#: WPAA.php:674
+msgid "is required for Geo Localization"
+msgstr ""
+
+#: WPAA.php:678
+msgid "Support Us, use our Associate id for"
+msgstr ""
+
+#: WPAA.php:678
+msgid "of links"
+msgstr ""
+
+#: WPAA.php:679
+#: WPAA.php:691
+#: WPAA.php:715
+#: WPAA.php:725
+msgid "Update Settings"
+msgstr ""
+
+#: WPAA.php:681
+msgid "Not an Amazon Associate?"
+msgstr ""
+
+#: WPAA.php:681
+msgid "Join today at"
+msgstr ""
+
+#: WPAA.php:683
+msgid "Amazon Associate Settings"
+msgstr ""
+
+#: WPAA.php:687
+msgid "Access Key:"
+msgstr ""
+
+#: WPAA.php:688
+msgid "Secret Key:"
+msgstr ""
+
+#: WPAA.php:689
+msgid "Validate Credentials"
+msgstr ""
+
+#: WPAA.php:693
+msgid "Don't have an Amazon Web Services account?"
+msgstr ""
+
+#: WPAA.php:693
+msgid "Sign-up for your free account today at"
+msgstr ""
+
+#: WPAA.php:695
+msgid "Amazon Web Services Settings"
+msgstr ""
+
+#: WPAA.php:699
+msgid "Enable Product Previews:"
+msgstr ""
+
+#: WPAA.php:701
+msgid "* Please note that this feature may not work on all themes, this is a bug with the amazon code itself as a fix for some theme/plugin combinations check this box."
+msgstr ""
+
+#: WPAA.php:701
+msgid " If checked jQuery will be remapped to a new object prior to inserting the amazon code than remapped to $ after."
+msgstr ""
+
+#: WPAA.php:702
+msgid "Update Settings &raquo;"
+msgstr ""
+
+#: WPAA.php:704
+msgid "The Amazon Product Preview enhances your site content by adding product preview popups to qualified amazon links. Full information can be found on the"
+msgstr ""
+
+#: WPAA.php:704
+msgid "Amazon Associate Website"
+msgstr ""
+
+#: WPAA.php:706
+msgid "Amazon Product Preview Settings"
+msgstr ""
+
+#: WPAA.php:710
+msgid "Amazon Carousel:"
+msgstr ""
+
+#: WPAA.php:711
+msgid "Amazon MP3 Clips:"
+msgstr ""
+
+#: WPAA.php:712
+msgid "Amazon My Favorites:"
+msgstr ""
+
+#: WPAA.php:713
+msgid "Amazon Search:"
+msgstr ""
+
+#: WPAA.php:717
+msgid "Don't need a provided widget? Then feel free to disable it here so your Widget menu is a little less cluttered."
+msgstr ""
+
+#: WPAA.php:719
+msgid "Amazon Widget Settings"
+msgstr ""
+
+#: WPAA.php:723
+msgid "Enable Associate Filter:"
+msgstr ""
+
+#: WPAA.php:727
+msgid "The Associate Filter will enable replacement of static Amazon links Associate Tags with your specified associate id. This filter may reduce the render speed of your website so do not use unless you have static links in your website/blog."
+msgstr ""
+
+#: WPAA.php:729
+msgid "Amazon Associate Filter Settings"
+msgstr ""
+
+#: WPAA.php:763
+msgid "Author:"
+msgstr ""
+
+#: WPAA.php:764
+msgid "Project Website:"
+msgstr ""
+
+#: WPAA.php:765
+msgid "Version:"
+msgstr ""
+
+#: WPAA.php:766
+msgid "Last Updated:"
+msgstr ""
+
+#: WPAA.php:768
+msgid "About this Plugin"
+msgstr ""
+
+#: WPAA.php:771
+msgid "Rate this plugin"
+msgstr ""
+
+#: WPAA.php:771
+msgid "on WordPress"
+msgstr ""
+
+#: WPAA.php:772
+msgid "Notify"
+msgstr ""
+
+#: WPAA.php:772
+msgid "WordPress users this plugin works with your WordPress version"
+msgstr ""
+
+#: WPAA.php:774
+msgid "User Feedback"
+msgstr ""
+
+#: WPAA.php:785
+msgid "Show your support!"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:45
+#: Widget/Amazon/Carousel.php:50
+msgid "Amazon Carousel Widget"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:122
+#: Widget/Amazon/MP3Clips.php:113
+#: Widget/Amazon/MyFavorites.php:161
+#: Widget/Amazon/Search.php:152
+msgid "Basic Properties"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:124
+#: Widget/Amazon/MP3Clips.php:115
+#: Widget/Amazon/MyFavorites.php:163
+#: Widget/Amazon/Search.php:154
+msgid "Widget Title:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:125
+#: Widget/Amazon/MP3Clips.php:116
+#: Widget/Amazon/MyFavorites.php:164
+#: Widget/Amazon/Search.php:155
+msgid "Width:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:126
+#: Widget/Amazon/MP3Clips.php:117
+#: Widget/Amazon/Search.php:156
+msgid "Height:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:127
+#: Widget/Amazon/MP3Clips.php:118
+#: Widget/Amazon/MyFavorites.php:165
+#: Widget/Amazon/Search.php:157
+msgid "Market Place:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:129
+#: Widget/Amazon/MP3Clips.php:120
+#: Widget/Amazon/MyFavorites.php:166
+#: Widget/Amazon/Search.php:158
+msgid "Widget Options"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:131
+#: Widget/Amazon/MP3Clips.php:122
+#: Widget/Amazon/MyFavorites.php:167
+msgid "Title:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:133
+#: Widget/Amazon/MP3Clips.php:124
+msgid "Widget Type"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:134
+#: Widget/Amazon/Search.php:159
+msgid "Search Index:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:135
+#: Widget/Amazon/MP3Clips.php:125
+msgid "Browse Node:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:136
+#: Widget/Amazon/MP3Clips.php:126
+#: Widget/Amazon/MyFavorites.php:168
+msgid "ASIN:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:137
+#: Widget/Amazon/MP3Clips.php:127
+msgid "Keywords:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:138
+#: Widget/Amazon/MyFavorites.php:169
+msgid "Shuffle Products:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:139
+msgid "Show Border:"
+msgstr ""
+
+#: Widget/Amazon/Carousel.php:151
+#: Widget/Amazon/MP3Clips.php:140
+#: Widget/Amazon/MyFavorites.php:207
+#: Widget/Amazon/Search.php:198
+msgid "Preview Widget"
+msgstr ""
+
+#: Widget/Amazon/MP3Clips.php:45
+#: Widget/Amazon/MP3Clips.php:50
+msgid "Amazon MP3 Clips Widget"
+msgstr ""
+
+#: Widget/Amazon/MP3Clips.php:128
+msgid "Shuffle Tracks:"
+msgstr ""
+
+#: Widget/Amazon/MP3Clips.php:129
+msgid "Max Results:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:45
+#: Widget/Amazon/MyFavorites.php:50
+msgid "Amazon My Favorites Widget"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:170
+#: Widget/Amazon/Search.php:161
+msgid "Columns:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:171
+#: Widget/Amazon/Search.php:162
+msgid "Rows:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:172
+#: Widget/Amazon/Search.php:163
+msgid "Show Image:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:173
+#: Widget/Amazon/Search.php:164
+msgid "Show Price:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:174
+#: Widget/Amazon/Search.php:165
+msgid "Show Rating:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:175
+#: Widget/Amazon/Search.php:166
+msgid "Design Options"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:177
+#: Widget/Amazon/Search.php:168
+msgid "Design:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:178
+#: Widget/Amazon/Search.php:169
+msgid "Color Theme:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:179
+#: Widget/Amazon/Search.php:170
+msgid "Outer Background Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:180
+#: Widget/Amazon/Search.php:171
+msgid "Inner Background Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:181
+#: Widget/Amazon/Search.php:172
+msgid "Background Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:182
+#: Widget/Amazon/Search.php:173
+msgid "Border Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:183
+#: Widget/Amazon/Search.php:174
+msgid "Header Text Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:184
+#: Widget/Amazon/Search.php:175
+msgid "Linked Text Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:185
+#: Widget/Amazon/Search.php:176
+msgid "Body Text Color:"
+msgstr ""
+
+#: Widget/Amazon/MyFavorites.php:186
+#: Widget/Amazon/Search.php:177
+msgid "Rounded Corners:"
+msgstr ""
+
+#: Widget/Amazon/Search.php:45
+#: Widget/Amazon/Search.php:50
+msgid "Amazon Search Widget"
+msgstr ""
+
+#: Widget/Amazon/Search.php:160
+msgid "Default Search Term:"
+msgstr ""
+
+#: WPAA/Module/Ad.php:158
+msgid "Banner Ads"
+msgstr ""
+
+#: WPAA/Module/Ad.php:168
+#: WPAA/Module/Compliance.php:218
+msgid "Are you already using a different WordPress Plugin but would like to use"
+msgstr ""
+
+#: WPAA/Module/Ad.php:168
+#: WPAA/Module/Compliance.php:218
+msgid " Don't worry about modifying your existing pages/posts and templates instead you can simply enable compliance with their ShortCode by clicking the appropriate checkboxes."
+msgstr ""
+
+#: WPAA/Module/Ad.php:177
+#: WPAA/Module/Compliance.php:227
+msgid "Amazon Plugin ShortCode Compliance"
+msgstr ""
+
+#: WPAA/Module/Compliance.php:208
+msgid "Plugin Compliance"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:261
+#: WPAA/Module/./IP2Nation.php:261
+msgid "<strong>Error:</strong> Failure while downloading remote file form ip2nation, please try to re-install."
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:269
+#: WPAA/Module/./IP2Nation.php:269
+msgid "<strong>Error:</strong> Failure to save content locally, please try to re-install."
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:282
+#: WPAA/Module/./IP2Nation.php:282
+msgid "<strong>Error:</strong> Failure to unzip archive, please try to re-install"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:297
+#: WPAA/Module/./IP2Nation.php:297
+#, php-format
+msgid "<strong>Error:</strong> ip2nation archive downloaded but failed to install due to error: [%s]"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:304
+#: WPAA/Module/./IP2Nation.php:304
+msgid "<strong>Success:</strong> ip2nation database installed successfully."
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:358
+#: WPAA/Module/./IP2Nation.php:358
+msgid "ip2nation"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:373
+#: WPAA/Module/./IP2Nation.php:373
+msgid "Installed Version:"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:375
+#: WPAA/Module/./IP2Nation.php:375
+msgid "Available Version:"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:380
+#: WPAA/Module/./IP2Nation.php:380
+msgid "Update"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:384
+#: WPAA/Module/./IP2Nation.php:384
+msgid "The ip2nation database is not installed. If you want to enable link localization by IP Address please install the database by using the <em>install</em> button below."
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:385
+#: WPAA/Module/./IP2Nation.php:385
+msgid "Install"
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:388
+#: WPAA/Module/./IP2Nation.php:388
+msgid "ip2nation is utilized to lookup a users country by their ip address. If installed you can configure the WordPress Amazon Associate plugin to localize links automatically for your website visitors."
+msgstr ""
+
+#: WPAA/Module/IP2Nation.php:390
+#: WPAA/Module/./IP2Nation.php:390
+msgid "ip2nation status"
+msgstr ""
+
